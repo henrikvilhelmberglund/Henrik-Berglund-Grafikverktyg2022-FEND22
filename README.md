@@ -1,8 +1,10 @@
 # Inlämningsuppgift Grafikverktyg 2022 Henrik Berglund FEND22
 
+[Länk till .fig-fil](https://www.figma.com/file/DlquKEMuqURXcgT90e00WU/Henrik-Berglund-Grafikverktyg2022-FEND22?node-id=1%3A5&t=94yIgQ4e4vmRjjwj-1)
+
 ## Om sidan
 
-Detta är ett Figmaprojekt med en design för en desktop-app kallad Midiraku för skapande och redigering av MIDI-filer (.mid) i en browser.
+Detta är ett Figmaprojekt med en design för en desktop-app kallad MIDIraku för skapande och redigering av MIDI-filer (.mid) i en browser.
 
 ## Dependencies
 
